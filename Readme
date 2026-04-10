@@ -1,2 +1,3 @@
-Necesita de la aplicacion de guardado del dataset privado y el codigo de arduino
-Abierto a cambios y mejoras.
+Interfaz secundaria de guardado de dataset implementada.
+
+Codigo temporal de arduino para transmision de la informacion por serial.
