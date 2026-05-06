@@ -1,3 +1,3 @@
-Interfaz secundaria de guardado de dataset implementada.
+Indicacion basica de reparticion basica de datos (Indica a la persona siendo grabada 2 seg de silencio, 5 sec de grabacion, 2 seg de silencio)
 
-Codigo temporal de arduino para transmision de la informacion por serial.
+todo: Implementar correctamente las ventanas en el preprocesamiento. Implementar completamente sistema de carga de dataset.
