@@ -1,3 +1,3 @@
-Indicacion basica de reparticion basica de datos (Indica a la persona siendo grabada 2 seg de silencio, 5 sec de grabacion, 2 seg de silencio)
+Implementacion correcta de ventanas de datos de preprocesamiento. Seccion de "Frase" añadida como metadato en el dataset. 
 
-todo: Implementar correctamente las ventanas en el preprocesamiento. Implementar completamente sistema de carga de dataset.
+todo: Implementar completamente sistema de carga de dataset.
