@@ -8,8 +8,8 @@ void setup() {
 }
 
 void loop() {
-  float volt1=(analogRead(15))*(3.3/1023);
-  float volt2=(analogRead(4))*(3.3/1023);
+  float volt1=(analogRead(15))*(3.3/4095);
+  float volt2=(analogRead(4))*(3.3/4095);
   Vstring1 = String(volt1);
   Vstring2 = String(volt2);
 

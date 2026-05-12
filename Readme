@@ -1,3 +1,5 @@
-Mejoras graficas.
+Grabaciones de 8 hombres y 4 mujeres.
+Codigo de microcontrolador adaptado para ESP32.
+Ventana de grabacion reducida para la frase "Universidad del Valle".
 
 todo: Implementar completamente sistema de carga de dataset.
