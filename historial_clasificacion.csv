@@ -1,0 +1,51 @@
+Fecha,Verdadera,Predicha,Modelo,Distancia,Conf,DurMs,Sujeto
+16-Jul-2026 23:23:00,Agua,Agua,KNN (K=15),Manhattan,0.733333333333333,989,Hola
+16-Jul-2026 23:23:12,Agua,Agua,KNN (K=15),Manhattan,0.466666666666667,1160,Hola
+16-Jul-2026 23:23:24,Agua,Pelicula,KNN (K=15),Manhattan,0.666666666666667,1552,Hola
+16-Jul-2026 23:23:52,Agua,Agua,KNN (K=15),Euclidiana,0.533333333333333,924,Hola
+16-Jul-2026 23:24:07,Agua,Agua,KNN (K=15),Euclidiana,0.6,1033,Hola
+16-Jul-2026 23:24:26,Agua,Agua,KNN (K=15),Euclidiana,0.733333333333333,825,Hola
+16-Jul-2026 23:24:42,Agua,Cine,KNN (K=15),Coseno,0.6,758,Hola
+16-Jul-2026 23:24:55,Agua,Agua,KNN (K=15),Coseno,0.8,736,Hola
+16-Jul-2026 23:25:08,Agua,Agua,KNN (K=15),Coseno,0.666666666666667,662,Hola
+16-Jul-2026 23:25:24,Agua,Pelicula,KNN (K=15),Coseno,0.533333333333333,1595,Hola
+16-Jul-2026 23:26:04,Agua,Agua,KNN (K=10),Manhattan,0.7,667,Hola
+16-Jul-2026 23:26:15,Agua,Agua,KNN (K=10),Manhattan,0.6,1313,Hola
+16-Jul-2026 23:26:27,Agua,Agua,KNN (K=10),Euclidiana,0.8,588,Hola
+16-Jul-2026 23:26:43,Agua,Agua,KNN (K=10),Coseno,0.6,915,Hola
+16-Jul-2026 23:27:02,Agua,Agua,KNN (K=5),Manhattan,1,774,Hola
+16-Jul-2026 23:27:15,Agua,Agua,KNN (K=5),Manhattan,0.8,763,Hola
+16-Jul-2026 23:27:27,Agua,Agua,KNN (K=5),Manhattan,0.8,745,Hola
+16-Jul-2026 23:27:48,Agua,Agua,KNN (K=5),Coseno,1,922,Hola
+16-Jul-2026 23:28:01,Agua,Agua,KNN (K=5),Coseno,0.8,971,Hola
+16-Jul-2026 23:28:17,Agua,Agua,KNN (K=5),Euclidiana,1,683,Hola
+16-Jul-2026 23:28:51,Agua,Agua,Centroide,Euclidiana,0.689587886493664,1090,Hola
+16-Jul-2026 23:29:15,Agua,Agua,Centroide,Manhattan,0.70573298657767,1029,Hola
+16-Jul-2026 23:29:31,Agua,Agua,Centroide,Coseno,0.838205335871242,902,Hola
+16-Jul-2026 23:30:21,Pelicula,Cine,KNN (K=5),Euclidiana,0.8,1219,Hola
+16-Jul-2026 23:30:36,Pelicula,Pelicula,KNN (K=5),Manhattan,0.8,2196,Hola
+16-Jul-2026 23:30:51,Pelicula,Pelicula,KNN (K=5),Coseno,0.8,1080,Hola
+16-Jul-2026 23:31:10,Pelicula,Cine,KNN (K=10),Coseno,0.6,1728,Hola
+16-Jul-2026 23:31:14,Pelicula,Cine,KNN (K=10),Euclidiana,0.5,1728,Hola
+16-Jul-2026 23:31:26,Pelicula,Agua,KNN (K=10),Euclidiana,0.5,1586,Hola
+16-Jul-2026 23:31:42,Pelicula,Cine,KNN (K=10),Manhattan,0.6,529,Hola
+16-Jul-2026 23:31:56,Pelicula,Pelicula,KNN (K=10),Coseno,0.6,1925,Hola
+16-Jul-2026 23:32:16,Pelicula,Pelicula,KNN (K=15),Coseno,0.533333333333333,1324,Hola
+16-Jul-2026 23:32:32,Pelicula,Agua,KNN (K=15),Manhattan,0.533333333333333,1604,Hola
+16-Jul-2026 23:32:46,Pelicula,Pelicula,KNN (K=15),Euclidiana,0.666666666666667,1863,Hola
+16-Jul-2026 23:33:01,Pelicula,Agua,Centroide,Euclidiana,0.7000491125293,979,Hola
+16-Jul-2026 23:33:19,Pelicula,Agua,Centroide,Manhattan,0.69811611567986,1785,Hola
+16-Jul-2026 23:33:34,Pelicula,Agua,Centroide,Coseno,0.827462859616756,1436,Hola
+16-Jul-2026 23:34:10,Cine,Pelicula,Centroide,Coseno,0.838523804873014,2264,Hola
+16-Jul-2026 23:34:22,Cine,Cine,Centroide,Coseno,0.890503363430048,581,Hola
+16-Jul-2026 23:34:38,Cine,Cine,Centroide,Euclidiana,0.734931984655417,408,Hola
+16-Jul-2026 23:34:55,Cine,Cine,Centroide,Manhattan,0.756973710732397,641,Hola
+16-Jul-2026 23:35:11,Cine,Cine,KNN (K=15),Manhattan,0.533333333333333,873,Hola
+16-Jul-2026 23:35:24,Cine,Cine,KNN (K=15),Euclidiana,0.866666666666667,359,Hola
+16-Jul-2026 23:35:36,Cine,Cine,KNN (K=15),Coseno,0.733333333333333,506,Hola
+16-Jul-2026 23:35:50,Cine,Pelicula,KNN (K=10),Coseno,0.5,963,Hola
+16-Jul-2026 23:36:08,Cine,Agua,KNN (K=10),Euclidiana,0.5,930,Hola
+16-Jul-2026 23:36:24,Cine,Cine,KNN (K=10),Manhattan,0.8,855,Hola
+16-Jul-2026 23:36:38,Cine,Cine,KNN (K=5),Manhattan,0.6,672,Hola
+16-Jul-2026 23:36:52,Cine,Cine,KNN (K=5),Euclidiana,1,593,Hola
+16-Jul-2026 23:37:06,Cine,Cine,KNN (K=5),Coseno,0.6,505,Hola
